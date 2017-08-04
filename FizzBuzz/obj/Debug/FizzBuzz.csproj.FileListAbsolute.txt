@@ -1,0 +1,6 @@
+D:\Dropbox\Random Stuff\Code\VisualStudio\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe.config
+D:\Dropbox\Random Stuff\Code\VisualStudio\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.exe
+D:\Dropbox\Random Stuff\Code\VisualStudio\FizzBuzz\FizzBuzz\bin\Debug\FizzBuzz.pdb
+D:\Dropbox\Random Stuff\Code\VisualStudio\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.csprojResolveAssemblyReference.cache
+D:\Dropbox\Random Stuff\Code\VisualStudio\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.exe
+D:\Dropbox\Random Stuff\Code\VisualStudio\FizzBuzz\FizzBuzz\obj\Debug\FizzBuzz.pdb
